@@ -1,40 +1,40 @@
-# Jokenpo - Jogo Contra o Computador
+# Jokenpo - Game Against the Computer
 
-Este projeto consiste em uma implementação do clássico jogo "Pedra, Papel e Tesoura" contra o computador, em Python. O jogo permite que o jogador escolha uma das opções e depois competirá contra o computador, que fará sua própria escolha aleatória. O vencedor de cada rodada é determinado pelas regras tradicionais do jogo.
+This project is an implementation of the classic "Jokenpo" game against the computer, written in Python. The game allows the player to choose one of the options and then compete against the computer, which will make its own random choice. The winner of each round is determined by the traditional rules of the game.
 
-## Funcionalidades
+## Features
 
-- **Escolha Contra o Computador:** O jogador pode escolher entre Pedra, Papel e Tesoura para competir contra o computador.
-- **Delay Aleatório:** Para simular o pensamento do computador, há um atraso aleatório antes de sua escolha ser revelada.
-- **Verificação de Vencedor:** O jogo verifica automaticamente quem venceu cada rodada com base nas regras do jogo.
+- **Play Against the Computer:** The player can choose between Rock, Paper, and Scissors to compete against the computer.
+- **Random Delay:** To simulate the computer's thought process, there is a random delay before its choice is revealed.
+- **Winner Verification:** The game automatically checks who won each round based on the game's rules.
 
-## Como Jogar
+## How to Play
 
-1. Ao iniciar o jogo, você verá as instruções de como jogar.
-2. Você será solicitado a digitar o número correspondente à sua escolha: Pedra (1), Papel (2), Tesoura (3) ou Sair (0).
-3. Após fazer sua escolha, o computador fará sua própria escolha após um atraso simulado.
-4. O resultado de cada rodada será exibido, indicando se você venceu, perdeu ou houve empate.
-5. O jogo continuará até que você decida sair digitando 0.
+1. When you start the game, you will see instructions on how to play.
+2. You will be prompted to enter the number corresponding to your choice: Rock (1), Paper (2), Scissors (3), or Exit (0).
+3. After making your choice, the computer will make its own choice after a simulated delay.
+4. The result of each round will be displayed, indicating whether you won, lost, or it was a tie.
+5. The game will continue until you decide to exit by entering 0.
 
-## Requisitos de Instalação
+## Installation Requirements
 
 - Python 3.x
 
-## Bibliotecas Necessárias
+## Required Libraries
 
-- `time`: para operações com tempo
-- `random`: para aleatoriedade.
+- `time`: for time operations
+- `random`: for randomness
 
-## Como Executar
+## How to Run
 
-1. Certifique-se de ter Python instalado em seu sistema.
-2. Clone ou baixe o repositório deste código.
-3. Execute o arquivo Python.
+1. Ensure you have Python installed on your system.
+2. Clone or download the repository of this code.
+3. Run the Python file.
 
-## Autor
+## Author
 
-Este jogo foi recriado por Ageu Felipe Nunes Moraes(eu) com o propósito de simular a versão original da brincadeira Jokenpô e como parte de um projeto pessoal dedicado ao fortalecimento e amadurecimento da codificação. Para quaisquer dúvidas ou sugestões, por favor, entre em contato pelo e-mail [ageumoraes67@gmail.com].
+This game was recreated by Ageu Felipe Nunes Moraes as a simulation of the original Rock-Paper-Scissors game and as part of a personal project dedicated to strengthening and maturing coding skills. For any questions or suggestions, please contact me at [ageumoraes67@gmail.com](mailto:ageumoraes67@gmail.com).
 
-## Aviso Legal
+## Disclaimer
 
-Este é um projeto de software desenvolvido por um indivíduo e não tem afiliação com os criadores dessa brincadeira.
+This is a software project developed by an individual and is not affiliated with the creators of this game.
